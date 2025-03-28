@@ -1,2 +1,2 @@
 #1bin/sh
-Branch: shell-script
+echo "Branch: shell-script"
